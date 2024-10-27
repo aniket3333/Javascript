@@ -24,4 +24,6 @@ console.log(d4);
 //  }
 // }
 // d3 = [...d1,...d2]
+
+
 console.log(d4);
